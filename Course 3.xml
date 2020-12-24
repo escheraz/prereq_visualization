@@ -1,0 +1,336 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="3.029"/>
+<node id="22.14"/>
+<node id="3.70"/>
+<node id="3.53"/>
+<node id="3.087"/>
+<node id="3.44"/>
+<node id="3.071"/>
+<node id="3.57"/>
+<node id="3.055"/>
+<node id="1.050"/>
+<node id="3.001"/>
+<node id="3.152"/>
+<node id="20.110"/>
+<node id="18.032"/>
+<node id="3.07"/>
+<node id="3.080"/>
+<node id="3.017"/>
+<node id="3.171"/>
+<node id="18.01"/>
+<node id="3.21"/>
+<node id="3.696"/>
+<node id="3.693"/>
+<node id="3.984"/>
+<node id="3.003"/>
+<node id="3.095"/>
+<node id="3.023"/>
+<node id="3.086"/>
+<node id="3.041"/>
+<node id="3.971"/>
+<node id="3.14"/>
+<node id="3.931"/>
+<node id="3.986"/>
+<node id="6.0001"/>
+<node id="3.69"/>
+<node id="3.020"/>
+<node id="3.990"/>
+<node id="3.903"/>
+<node id="3.032"/>
+<node id="3.014"/>
+<node id="3.691"/>
+<node id="3.985"/>
+<node id="3.16"/>
+<node id="3.030"/>
+<node id="3.64"/>
+<node id="3.094"/>
+<node id="3.694"/>
+<node id="3.698"/>
+<node id="3.019"/>
+<node id="3.997"/>
+<node id="3.38"/>
+<node id="3.033"/>
+<node id="18.03"/>
+<node id="3.993"/>
+<node id="3.982"/>
+<node id="3.NONE"/>
+<node id="3.321"/>
+<node id="12.010"/>
+<node id="3.40"/>
+<node id="3.41"/>
+<node id="3.941"/>
+<node id="3.36"/>
+<node id="3.004"/>
+<node id="3.18"/>
+<node id="3.31"/>
+<node id="3.054"/>
+<node id="3.560"/>
+<node id="8.02"/>
+<node id="3.20"/>
+<node id="3.012"/>
+<node id="3.23"/>
+<node id="10.467"/>
+<node id="3.39"/>
+<node id="8.01"/>
+<node id="3.207"/>
+<node id="3.021"/>
+<node id="3.053"/>
+<node id="10.301"/>
+<node id="3.46"/>
+<node id="3.19"/>
+<node id="3.371"/>
+<node id="2.002"/>
+<node id="3.932"/>
+<node id="3.005"/>
+<node id="3.155"/>
+<node id="3.039"/>
+<node id="3.963"/>
+<node id="6.012"/>
+<node id="3.942"/>
+<node id="3.002"/>
+<node id="3.65"/>
+<node id="3.42"/>
+<node id="3.989"/>
+<node id="3.930"/>
+<node id="2.006"/>
+<node id="3.007"/>
+<node id="2.001"/>
+<node id="3.042"/>
+<node id="3.998"/>
+<node id="3.695"/>
+<node id="18.02"/>
+<node id="3.699"/>
+<node id="6.013"/>
+<node id="3.50"/>
+<node id="3.081"/>
+<node id="3.034"/>
+<node id="3.981"/>
+<node id="3.046"/>
+<node id="3.154"/>
+<node id="3.34"/>
+<node id="3.056"/>
+<node id="3.35"/>
+<node id="3.006"/>
+<node id="3.697"/>
+<node id="3.044"/>
+<node id="3.24"/>
+<node id="3.987"/>
+<node id="3.156"/>
+<node id="8.03"/>
+<node id="3.074"/>
+<node id="3.30"/>
+<node id="3.085"/>
+<node id="3.692"/>
+<node id="3.064"/>
+<node id="2.370"/>
+<node id="3.45"/>
+<node id="3.320"/>
+<node id="10.302"/>
+<node id="5.111"/>
+<node id="3.013"/>
+<node id="10.568"/>
+<node id="3.15"/>
+<node id="3.063"/>
+<node id="3.43"/>
+<node id="3.22"/>
+<node id="7.012"/>
+<node id="3.091"/>
+<node id="16.66"/>
+<node id="3.010"/>
+<node id="3.052"/>
+<node id="3.33"/>
+<node id="3.983"/>
+<edge source="3.029" target="3.039"/>
+<edge source="22.14" target="3.31"/>
+<edge source="1.050" target="3.087"/>
+<edge source="20.110" target="3.055"/>
+<edge source="20.110" target="3.963"/>
+<edge source="20.110" target="3.053"/>
+<edge source="18.032" target="3.012"/>
+<edge source="18.032" target="3.020"/>
+<edge source="18.032" target="3.010"/>
+<edge source="18.01" target="3.003"/>
+<edge source="18.01" target="3.004"/>
+<edge source="3.21" target="3.41"/>
+<edge source="3.21" target="3.31"/>
+<edge source="3.21" target="3.44"/>
+<edge source="3.21" target="3.30"/>
+<edge source="3.21" target="3.33"/>
+<edge source="3.986" target="3.990"/>
+<edge source="6.0001" target="3.017"/>
+<edge source="3.020" target="3.030"/>
+<edge source="3.020" target="3.029"/>
+<edge source="3.020" target="3.046"/>
+<edge source="3.020" target="3.033"/>
+<edge source="3.032" target="3.36"/>
+<edge source="3.032" target="3.042"/>
+<edge source="3.032" target="3.041"/>
+<edge source="3.032" target="3.154"/>
+<edge source="3.032" target="3.064"/>
+<edge source="3.032" target="3.052"/>
+<edge source="3.032" target="3.14"/>
+<edge source="3.032" target="3.054"/>
+<edge source="3.032" target="3.22"/>
+<edge source="3.032" target="3.40"/>
+<edge source="3.032" target="3.942"/>
+<edge source="3.014" target="3.042"/>
+<edge source="3.014" target="3.081"/>
+<edge source="3.014" target="3.171"/>
+<edge source="3.014" target="3.017"/>
+<edge source="3.014" target="3.080"/>
+<edge source="3.014" target="3.20"/>
+<edge source="3.985" target="3.990"/>
+<edge source="3.030" target="3.320"/>
+<edge source="3.030" target="3.14"/>
+<edge source="3.030" target="3.039"/>
+<edge source="3.030" target="3.017"/>
+<edge source="3.030" target="3.18"/>
+<edge source="3.030" target="3.40"/>
+<edge source="3.030" target="3.071"/>
+<edge source="3.019" target="3.029"/>
+<edge source="3.033" target="3.074"/>
+<edge source="3.033" target="3.156"/>
+<edge source="3.033" target="3.34"/>
+<edge source="3.033" target="3.017"/>
+<edge source="3.033" target="3.18"/>
+<edge source="3.033" target="3.056"/>
+<edge source="3.033" target="3.071"/>
+<edge source="18.03" target="3.021"/>
+<edge source="18.03" target="3.012"/>
+<edge source="18.03" target="3.156"/>
+<edge source="18.03" target="3.013"/>
+<edge source="18.03" target="3.020"/>
+<edge source="18.03" target="3.032"/>
+<edge source="18.03" target="3.23"/>
+<edge source="18.03" target="3.053"/>
+<edge source="18.03" target="3.010"/>
+<edge source="3.NONE" target="3.57"/>
+<edge source="3.NONE" target="3.693"/>
+<edge source="3.NONE" target="3.003"/>
+<edge source="3.NONE" target="3.694"/>
+<edge source="3.NONE" target="3.021"/>
+<edge source="3.NONE" target="3.989"/>
+<edge source="3.NONE" target="3.930"/>
+<edge source="3.NONE" target="3.695"/>
+<edge source="3.NONE" target="3.699"/>
+<edge source="3.NONE" target="3.981"/>
+<edge source="3.NONE" target="3.987"/>
+<edge source="3.NONE" target="3.932"/>
+<edge source="3.NONE" target="3.086"/>
+<edge source="3.NONE" target="3.997"/>
+<edge source="3.NONE" target="3.207"/>
+<edge source="3.NONE" target="3.986"/>
+<edge source="3.NONE" target="3.985"/>
+<edge source="3.NONE" target="3.012"/>
+<edge source="3.NONE" target="3.002"/>
+<edge source="3.NONE" target="3.24"/>
+<edge source="3.NONE" target="3.983"/>
+<edge source="3.NONE" target="3.152"/>
+<edge source="3.NONE" target="3.014"/>
+<edge source="3.NONE" target="3.094"/>
+<edge source="3.NONE" target="3.19"/>
+<edge source="3.NONE" target="3.697"/>
+<edge source="3.NONE" target="3.013"/>
+<edge source="3.NONE" target="3.055"/>
+<edge source="3.NONE" target="3.984"/>
+<edge source="3.NONE" target="3.004"/>
+<edge source="3.NONE" target="3.005"/>
+<edge source="3.NONE" target="3.998"/>
+<edge source="3.NONE" target="3.15"/>
+<edge source="3.NONE" target="3.001"/>
+<edge source="3.NONE" target="3.993"/>
+<edge source="3.NONE" target="3.696"/>
+<edge source="3.NONE" target="3.006"/>
+<edge source="3.NONE" target="3.691"/>
+<edge source="3.NONE" target="3.963"/>
+<edge source="3.NONE" target="3.50"/>
+<edge source="3.NONE" target="3.085"/>
+<edge source="3.NONE" target="3.692"/>
+<edge source="3.NONE" target="3.64"/>
+<edge source="3.NONE" target="3.020"/>
+<edge source="3.NONE" target="3.032"/>
+<edge source="3.NONE" target="3.982"/>
+<edge source="3.NONE" target="3.007"/>
+<edge source="3.NONE" target="3.091"/>
+<edge source="3.NONE" target="3.941"/>
+<edge source="3.NONE" target="3.23"/>
+<edge source="3.NONE" target="3.095"/>
+<edge source="3.NONE" target="3.371"/>
+<edge source="3.NONE" target="3.155"/>
+<edge source="3.NONE" target="3.69"/>
+<edge source="3.NONE" target="3.698"/>
+<edge source="3.NONE" target="3.053"/>
+<edge source="3.NONE" target="3.010"/>
+<edge source="3.NONE" target="3.019"/>
+<edge source="3.NONE" target="3.65"/>
+<edge source="3.NONE" target="3.971"/>
+<edge source="3.NONE" target="3.903"/>
+<edge source="3.NONE" target="3.38"/>
+<edge source="12.010" target="3.017"/>
+<edge source="8.02" target="3.155"/>
+<edge source="3.20" target="3.41"/>
+<edge source="3.20" target="3.320"/>
+<edge source="3.20" target="3.44"/>
+<edge source="3.20" target="3.30"/>
+<edge source="3.20" target="3.321"/>
+<edge source="3.20" target="3.70"/>
+<edge source="3.20" target="3.39"/>
+<edge source="3.20" target="3.560"/>
+<edge source="3.012" target="3.16"/>
+<edge source="3.012" target="3.034"/>
+<edge source="3.012" target="3.081"/>
+<edge source="3.012" target="3.087"/>
+<edge source="3.012" target="3.171"/>
+<edge source="3.012" target="3.21"/>
+<edge source="3.012" target="3.063"/>
+<edge source="3.012" target="3.07"/>
+<edge source="3.012" target="3.080"/>
+<edge source="3.012" target="3.044"/>
+<edge source="3.012" target="3.20"/>
+<edge source="3.23" target="3.320"/>
+<edge source="3.23" target="3.34"/>
+<edge source="3.23" target="3.46"/>
+<edge source="3.23" target="3.42"/>
+<edge source="3.23" target="3.45"/>
+<edge source="3.23" target="3.70"/>
+<edge source="10.467" target="3.087"/>
+<edge source="8.01" target="3.003"/>
+<edge source="8.01" target="3.985"/>
+<edge source="8.01" target="3.013"/>
+<edge source="8.01" target="3.004"/>
+<edge source="8.01" target="3.032"/>
+<edge source="10.301" target="3.971"/>
+<edge source="2.002" target="3.971"/>
+<edge source="6.012" target="3.43"/>
+<edge source="3.42" target="3.43"/>
+<edge source="3.930" target="3.931"/>
+<edge source="2.006" target="3.971"/>
+<edge source="2.001" target="3.087"/>
+<edge source="3.042" target="3.20"/>
+<edge source="18.02" target="3.029"/>
+<edge source="18.02" target="3.155"/>
+<edge source="6.013" target="3.971"/>
+<edge source="3.034" target="3.20"/>
+<edge source="3.044" target="3.042"/>
+<edge source="3.044" target="3.154"/>
+<edge source="3.044" target="3.064"/>
+<edge source="3.044" target="3.21"/>
+<edge source="3.044" target="3.53"/>
+<edge source="8.03" target="3.23"/>
+<edge source="2.370" target="3.053"/>
+<edge source="10.302" target="3.971"/>
+<edge source="5.111" target="3.985"/>
+<edge source="5.111" target="3.012"/>
+<edge source="5.111" target="3.020"/>
+<edge source="5.111" target="3.155"/>
+<edge source="5.111" target="3.010"/>
+<edge source="10.568" target="3.941"/>
+<edge source="3.22" target="3.35"/>
+<edge source="3.22" target="3.33"/>
+<edge source="7.012" target="3.053"/>
+<edge source="7.012" target="3.971"/>
+<edge source="16.66" target="3.017"/>
+<edge source="3.010" target="3.030"/>
+<edge source="3.010" target="3.023"/>
+<edge source="3.010" target="3.033"/>
+</graph></graphml>
